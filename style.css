@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: solid blue;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: red;
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+}
+nav a {
+    color: white;
+    background-color: brown;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding:5px;
+    margin: 10px;
+}
+.production {
+    border:5px solid navy;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(247, 222, 0);
